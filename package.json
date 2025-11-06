@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
     "node": "^25.1.0"
-  }
+  },
+  "name": "period-tracker-main",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000E\u0000R\u0000I\u0000O\u0000D\u0000-\u0000T\u0000R\u0000A\u0000C\u0000K\u0000E\u0000R\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blen-21/PERIOD-TRACKER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/blen-21/PERIOD-TRACKER/issues"
+  },
+  "homepage": "https://github.com/blen-21/PERIOD-TRACKER#readme"
 }
